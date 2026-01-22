@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|c:\\users\\jayca\\dev\\the_working_cat\\assets\\the working cat\\_runtime\\_simulation\\worldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\the working cat\\_runtime\\_simulation\\worldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|c:\\users\\jayca\\dev\\the_working_cat\\assets\\the working cat\\_runtime\\_presentation\\blockworld\\worldview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\the working cat\\_runtime\\_presentation\\blockworld\\worldview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|c:\\users\\jayca\\dev\\the_working_cat\\assets\\the working cat\\_runtime\\_world\\placementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\the working cat\\_runtime\\_world\\placementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|c:\\users\\jayca\\dev\\the_working_cat\\assets\\the working cat\\_runtime\\_presentation\\blockworld\\chunkview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\the working cat\\_runtime\\_presentation\\blockworld\\chunkview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|c:\\users\\jayca\\dev\\the_working_cat\\assets\\the working cat\\_runtime\\_presentation\\blockworld\\chunkmesher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\the working cat\\_runtime\\_presentation\\blockworld\\chunkmesher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|c:\\users\\jayca\\dev\\the_working_cat\\assets\\the working cat\\_runtime\\_world\\worldstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\the working cat\\_runtime\\_world\\worldstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|c:\\users\\jayca\\dev\\the_working_cat\\assets\\the working cat\\_runtime\\_world\\chunk\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\the working cat\\_runtime\\_world\\chunk\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\assets\\scripts\\voxelchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\voxelchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_World\\Blocks\\BlockLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\The Working Cat\\_Runtime\\_World\\Blocks\\BlockLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\assets\\scripts\\blocktypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blocktypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\assets\\scripts\\ivoxelworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ivoxelworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\assets\\the working cat\\_runtime\\_simulation\\simulationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\the working cat\\_runtime\\_simulation\\simulationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\assets\\the working cat\\_runtime\\_ui\\time\\timepanelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\the working cat\\_runtime\\_ui\\time\\timepanelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_UI\\Time\\TimePanelUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\The Working Cat\\_Runtime\\_UI\\Time\\TimePanelUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\assets\\the working cat\\_runtime\\_core\\simulationtimeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\the working cat\\_runtime\\_core\\simulationtimeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\assets\\the working cat\\_runtime\\_core\\simulationclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A891A5D0-FA84-94C5-B72E-0918A3825E2F}|Assembly-CSharp.csproj|solutionrelative:assets\\the working cat\\_runtime\\_core\\simulationclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChunkView.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Presentation\\BlockWorld\\ChunkView.cs",
+              "RelativeDocumentMoniker": "Assets\\The Working Cat\\_Runtime\\_Presentation\\BlockWorld\\ChunkView.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Presentation\\BlockWorld\\ChunkView.cs",
+              "RelativeToolTip": "Assets\\The Working Cat\\_Runtime\\_Presentation\\BlockWorld\\ChunkView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:47:31.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlacementService.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_World\\PlacementService.cs",
+              "RelativeDocumentMoniker": "Assets\\The Working Cat\\_Runtime\\_World\\PlacementService.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_World\\PlacementService.cs",
+              "RelativeToolTip": "Assets\\The Working Cat\\_Runtime\\_World\\PlacementService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:32:01.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorldController.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Simulation\\WorldController.cs",
+              "RelativeDocumentMoniker": "Assets\\The Working Cat\\_Runtime\\_Simulation\\WorldController.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Simulation\\WorldController.cs",
+              "RelativeToolTip": "Assets\\The Working Cat\\_Runtime\\_Simulation\\WorldController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:10:02.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorldState.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_World\\WorldState.cs",
+              "RelativeDocumentMoniker": "Assets\\The Working Cat\\_Runtime\\_World\\WorldState.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_World\\WorldState.cs",
+              "RelativeToolTip": "Assets\\The Working Cat\\_Runtime\\_World\\WorldState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:35:23.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chunk.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_World\\Chunk\\Chunk.cs",
+              "RelativeDocumentMoniker": "Assets\\The Working Cat\\_Runtime\\_World\\Chunk\\Chunk.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_World\\Chunk\\Chunk.cs",
+              "RelativeToolTip": "Assets\\The Working Cat\\_Runtime\\_World\\Chunk\\Chunk.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:36:15.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChunkMesher.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Presentation\\BlockWorld\\ChunkMesher.cs",
+              "RelativeDocumentMoniker": "Assets\\The Working Cat\\_Runtime\\_Presentation\\BlockWorld\\ChunkMesher.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Presentation\\BlockWorld\\ChunkMesher.cs",
+              "RelativeToolTip": "Assets\\The Working Cat\\_Runtime\\_Presentation\\BlockWorld\\ChunkMesher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:27:54.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorldView.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Presentation\\BlockWorld\\WorldView.cs",
+              "RelativeDocumentMoniker": "Assets\\The Working Cat\\_Runtime\\_Presentation\\BlockWorld\\WorldView.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Presentation\\BlockWorld\\WorldView.cs",
+              "RelativeToolTip": "Assets\\The Working Cat\\_Runtime\\_Presentation\\BlockWorld\\WorldView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:03:15.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlockLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_World\\Blocks\\BlockLibrary.cs",
+              "RelativeDocumentMoniker": "Assets\\The Working Cat\\_Runtime\\_World\\Blocks\\BlockLibrary.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_World\\Blocks\\BlockLibrary.cs",
+              "RelativeToolTip": "Assets\\The Working Cat\\_Runtime\\_World\\Blocks\\BlockLibrary.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T20:41:38.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlockTypes.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\Scripts\\BlockTypes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockTypes.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\Scripts\\BlockTypes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlockTypes.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T20:34:47.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVoxelWorld.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\Scripts\\IVoxelWorld.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IVoxelWorld.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\Scripts\\IVoxelWorld.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IVoxelWorld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T20:26:55.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VoxelChunk.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\Scripts\\VoxelChunk.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VoxelChunk.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\Scripts\\VoxelChunk.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VoxelChunk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T20:21:21.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SimulationRunner.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Simulation\\SimulationRunner.cs",
+              "RelativeDocumentMoniker": "Assets\\The Working Cat\\_Runtime\\_Simulation\\SimulationRunner.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Simulation\\SimulationRunner.cs",
+              "RelativeToolTip": "Assets\\The Working Cat\\_Runtime\\_Simulation\\SimulationRunner.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T19:30:42.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TimePanelView.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_UI\\Time\\TimePanelView.cs",
+              "RelativeDocumentMoniker": "Assets\\The Working Cat\\_Runtime\\_UI\\Time\\TimePanelView.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_UI\\Time\\TimePanelView.cs",
+              "RelativeToolTip": "Assets\\The Working Cat\\_Runtime\\_UI\\Time\\TimePanelView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:10:43.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TimePanelUI.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_UI\\Time\\TimePanelUI.cs",
+              "RelativeDocumentMoniker": "Assets\\The Working Cat\\_Runtime\\_UI\\Time\\TimePanelUI.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_UI\\Time\\TimePanelUI.cs",
+              "RelativeToolTip": "Assets\\The Working Cat\\_Runtime\\_UI\\Time\\TimePanelUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:09:55.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SimulationClock.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Core\\SimulationClock.cs",
+              "RelativeDocumentMoniker": "Assets\\The Working Cat\\_Runtime\\_Core\\SimulationClock.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Core\\SimulationClock.cs",
+              "RelativeToolTip": "Assets\\The Working Cat\\_Runtime\\_Core\\SimulationClock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:08:09.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SimulationTimeConfig.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Core\\SimulationTimeConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\The Working Cat\\_Runtime\\_Core\\SimulationTimeConfig.cs",
+              "ToolTip": "C:\\Users\\jayca\\Dev\\THE_WORKING_CAT\\Assets\\The Working Cat\\_Runtime\\_Core\\SimulationTimeConfig.cs",
+              "RelativeToolTip": "Assets\\The Working Cat\\_Runtime\\_Core\\SimulationTimeConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T01:07:26.331Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 154,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
